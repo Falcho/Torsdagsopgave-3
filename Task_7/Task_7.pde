@@ -10,7 +10,7 @@ void setup() {
 
   int sum = sumList(numbersList);
   int avg = avgList(numbersList);
-  println("the sum of numbers : "+sum);
+  println("the sum of the numbers : "+sum);
   println("the average of the numbers : "+avg);
 
   stringList.add("Dog");
